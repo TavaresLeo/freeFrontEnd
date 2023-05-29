@@ -104,11 +104,14 @@ header .header-menu {
         height: 448px;
         left: 20px;
         top: 332px;
+
+        background: #e1e1e1 0% 0% no-repeat padding-box;
+        opacity: 0.95;
     }
 
     #img-one {
         height: 275px;
-        width: 320px;
+        width: 350px;
 
     }
     
@@ -165,6 +168,35 @@ header .header-menu {
         color: #54595F;
         top: 2px;
         font-size: 23px;
+    }
+
+    .footer-title-img {
+        top: 315px;
+        left: 16px;
+        width: 318px;
+        height: 55px;
+        color: #54595F;
+        text-align: left;
+        font: normal normal bold 16px/20px Open Sans;
+        letter-spacing: 0px;
+        opacity: 1;
+    }
+
+    .p-footer-title-img {
+        top: 364px;
+        left: 16px;
+        width: 318px;
+        font: normal normal normal 14px Open Sans;
+        letter-spacing: 0px;
+        color: #54595F;
+        opacity: 1;
+    }
+
+    .line-footer {
+        top: 415px;
+        height: 9px;
+        background-color: #8CC751;
+        width: 349px;
     }
 
     .time-reading {
