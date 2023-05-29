@@ -6,7 +6,7 @@
     padding: 0;
     position: absolute;
     width: 100%;
-    height: 7665px;
+    height: 100%;
 }
 .header-mobile-menu {
     display: none;
@@ -105,8 +105,6 @@ header .header-menu {
         left: 20px;
         top: 332px;
 
-        background: #e1e1e1 0% 0% no-repeat padding-box;
-        opacity: 0.95;
     }
 
     #img-one {
@@ -126,6 +124,8 @@ header .header-menu {
     #label {
         top: 5px;
         left: 7px;
+        width: 23px;
+        height: 14px;
         font-size: 20px;
         color: #8CC751;
     }
@@ -133,6 +133,8 @@ header .header-menu {
     .text-label {
        top: 7px;
        left: 32px;
+       width: 80px;
+       height: 18px;
        font-size: 14px;
        color: #54595F;
     }
@@ -147,6 +149,8 @@ header .header-menu {
     #calendar {
         font-size: 17px;
         top: 4px;
+        width: 18px;
+        height: 18px;
         color: #54595F;
     }
 
@@ -154,6 +158,8 @@ header .header-menu {
         font-size: 12px;
         top: 7px;
         left: 23px;
+        width: 80px;
+        height: 18px;
         color: #54595F;
     }
 
@@ -167,6 +173,8 @@ header .header-menu {
     #glasses {
         color: #54595F;
         top: 2px;
+        width: 22px;
+        height: 18px;
         font-size: 23px;
     }
 
@@ -184,8 +192,9 @@ header .header-menu {
 
     .p-footer-title-img {
         top: 364px;
-        left: 16px;
         width: 318px;
+        height: 28px;
+        left: 16px;
         font: normal normal normal 14px Open Sans;
         letter-spacing: 0px;
         color: #54595F;
@@ -194,6 +203,7 @@ header .header-menu {
 
     .line-footer {
         top: 415px;
+        width: 349px;
         height: 9px;
         background-color: #8CC751;
         width: 349px;
@@ -203,7 +213,96 @@ header .header-menu {
         color: #54595F;
         top: 5px;
         left: 30px;
+        width: 62px;
+        height: 18px;
         font-size: 13px;
+    }
+
+    .second-img {
+        top: 393px;
+        left: 20px;
+        width: 350px;
+        height: 391px;
+        opacity: 1;
+    }
+
+    #second-photo {
+        top: 387px;
+        width: 350px;
+        height: 255px;
+    }
+
+    .educar-01 {
+        top: 650px;
+        left: 10px;
+        width: 100px;
+        height: 30px;
+        border-radius: 15px;
+    }
+
+    #label-2 {
+        font-size: 22px;
+        top: 4px;
+        left: 8px;
+        color: #8CC751;
+    }
+
+    .text-label-2 {
+        top: 8px;
+        left: 37px;
+        color: #54595F;
+        font-size: 14px;
+    }
+
+    .second-title-footer {
+        color: #54595F;
+        top: 690px;
+        left: 15px;
+        width: 254px;
+        height: 60px;
+    }
+
+    #calendar-1 {
+        top: 745px;
+        left: 17px;
+        width: 18px;
+        height: 18px;
+        color: #54595F;
+        font-size: 17px;
+    }
+
+    .text-date-1 {
+        top: 747px;
+        left: 40px;
+        width: 80px;
+        height: 18px;
+        text-align: left;
+        font-size: 12px;
+        color: #54595F;
+    }
+
+    #glasses-1 {
+        left: 146px;
+        top: 741px;
+        width: 22px;
+        height: 18px;
+        text-align: left;
+        font-size: 23px;
+        letter-spacing: 0px;
+        color: #54595F;
+        opacity: 1;     
+    }
+
+    .time-reading-1 {
+        left: 174px;
+        top: 744px;
+        width: 80px;
+        height: 18px;
+        text-align: left;
+        font-size: 13px;
+        letter-spacing: 0px;
+        color: #54595F;
+        opacity: 1;     
     }
 
     .nav-bar {
