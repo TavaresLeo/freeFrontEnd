@@ -6,7 +6,7 @@
     padding: 0;
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 7655px;
 }
 .header-mobile-menu {
     display: none;
@@ -118,7 +118,8 @@ header .header-menu {
         left: 6px;
         width: 103px;
         height: 30px;
-        
+        border-radius: 15px;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
     }
 
     #label {
@@ -137,6 +138,7 @@ header .header-menu {
        height: 18px;
        font-size: 14px;
        color: #54595F;
+      
     }
 
     .date {
@@ -147,17 +149,18 @@ header .header-menu {
     }
 
     #calendar {
-        font-size: 17px;
+        font-size: 18px;
         top: 4px;
+        left: 35px;
         width: 18px;
         height: 18px;
         color: #54595F;
     }
 
     .text-date {
-        font-size: 12px;
+        font-size: 14px;
         top: 7px;
-        left: 23px;
+        left: 60px;
         width: 80px;
         height: 18px;
         color: #54595F;
@@ -165,33 +168,43 @@ header .header-menu {
 
     .reading {
         top: 286px;
-        left: 215px;
+        left: 242px;
         width: 130px;
         height: 30px;
     }
 
     #glasses {
         color: #54595F;
-        top: 2px;
+        top: 1px;
+        left: 20px;
         width: 22px;
         height: 18px;
-        font-size: 23px;
+        font-size: 26px;
+    }
+
+    .time-reading {
+        color: #54595F;
+        top: 5px;
+        left: 50px;
+        width: 62px;
+        height: 18px;
+        font-size: 14px;
     }
 
     .footer-title-img {
-        top: 315px;
+        top: 325px;
         left: 16px;
         width: 318px;
         height: 55px;
         color: #54595F;
         text-align: left;
-        font: normal normal bold 16px/20px Open Sans;
+        font: normal normal bold 16px Open Sans;
         letter-spacing: 0px;
         opacity: 1;
     }
 
     .p-footer-title-img {
-        top: 364px;
+        top: 377px;
         width: 318px;
         height: 28px;
         left: 16px;
@@ -208,16 +221,7 @@ header .header-menu {
         background-color: #8CC751;
         width: 349px;
     }
-
-    .time-reading {
-        color: #54595F;
-        top: 5px;
-        left: 30px;
-        width: 62px;
-        height: 18px;
-        font-size: 13px;
-    }
-
+   
     .second-img {
         top: 393px;
         left: 20px;
@@ -238,16 +242,17 @@ header .header-menu {
         width: 100px;
         height: 30px;
         border-radius: 15px;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
     }
 
-    #label-2 {
+    #label-1 {
         font-size: 22px;
         top: 4px;
         left: 8px;
         color: #8CC751;
     }
 
-    .text-label-2 {
+    .text-label-1 {
         top: 8px;
         left: 37px;
         color: #54595F;
@@ -260,10 +265,11 @@ header .header-menu {
         left: 15px;
         width: 254px;
         height: 60px;
+        font: normal normal bold 16px Open Sans;
     }
 
     #calendar-1 {
-        top: 745px;
+        top: 743px;
         left: 17px;
         width: 18px;
         height: 18px;
@@ -303,6 +309,114 @@ header .header-menu {
         letter-spacing: 0px;
         color: #54595F;
         opacity: 1;     
+    }
+
+    .border-div-1 {
+        border: 0px solid gray;
+        background-color: gray;
+        top: 1186px;
+        height: 1px;
+        left: 20px;
+        width: 350px;
+        text-align: left;
+    }
+
+    .third-img {
+        top: 280px;
+        width: 350px;
+        height: 391px;
+    }
+
+    #third-photo {
+        top: 934px;
+        left: 20px;
+        width: 350px;
+        height: 255px;
+    }
+
+    .educar-2 {
+        top: 1205px;
+        left: 28px;
+        width: 124px;
+        height: 30px;
+        border-radius: 15px;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
+    }
+
+    #label-2 {
+        top: 3px;
+        left: 12px;
+        font-size: 22px;
+        color: #8CC751;
+        width: 25px;
+        height: 14px;
+    }
+
+    .text-label-2 {
+        top: 6px;
+        left: 40px;
+        width: 80px;
+        height: 18px;
+        color: #54595F;
+        font-size: 16px;
+    }
+
+    .third-title-footer {
+        top: 1250px;
+        left: 35px;
+        width: 254px;
+        height: 60px;
+        text-align: left;
+        color: #54595F;
+        font: normal normal bold 16px Open Sans;
+        letter-spacing: 0px ;
+    }
+
+    #calendar-2 {
+        top: 1300px;
+        left: 35px;
+        color: #54595F;
+        width: 18px;
+        height: 18px;
+        font-size: 18px;
+    }
+
+    .text-date-2 {
+        top: 1305px;
+        left: 60px;
+        width: 80px;
+        height: 18px;
+        color: #54595F;
+        text-align: left;
+        font-size: 12px;
+    }
+
+    #glasses-2 {
+        top: 1299px;
+        left: 160px;
+        width: 26px;
+        height: 26px;
+        color: #54595F;
+        font-size: 23px;
+    }
+
+    .time-reading-2 {
+        top: 1302px;
+        left: 190px;
+        width: 26px;
+        height: 26px;
+        color: #54595F;
+        font-size: 13px;
+    }
+
+    .border-div-2 {
+        border: 0px solid gray;
+        background-color: gray;
+        top: 1622px;
+        height: 1px;
+        left: 20px;
+        width: 350px;
+        text-align: left;
     }
 
     .nav-bar {
