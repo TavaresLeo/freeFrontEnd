@@ -66,16 +66,20 @@ header .header-menu {
     }
 
     #lupa {
-      margin-left: 289px;
-      margin-top: 30px;
+      left: 289px;
+      top: 30px;
+      width: 38px;
+      height: 38px;
       color: white;
-      font-size: 18px;
+      font-size: 24px;
     }
   
     #burguer {
-        margin-top: 30px;
-        margin-left: 325px;
-        font-size: 19px;
+        top: 30px;
+        left: 335px;
+        width: 20px;
+        height: 16px;
+        font-size: 28px;
         color: white;
     }
 
@@ -127,12 +131,12 @@ header .header-menu {
         left: 7px;
         width: 23px;
         height: 14px;
-        font-size: 20px;
+        font-size: 22px;
         color: #8CC751;
     }
 
     .text-label {
-       top: 7px;
+       top: 8px;
        left: 32px;
        width: 80px;
        height: 18px;
@@ -188,7 +192,7 @@ header .header-menu {
         left: 50px;
         width: 62px;
         height: 18px;
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .footer-title-img {
@@ -239,22 +243,26 @@ header .header-menu {
     .educar-01 {
         top: 650px;
         left: 10px;
-        width: 100px;
+        width: 110px;
         height: 30px;
         border-radius: 15px;
         background: #F2F2F2 0% 0% no-repeat padding-box;
     }
 
     #label-1 {
-        font-size: 22px;
         top: 4px;
         left: 8px;
+        width: 23px;
+        height: 14px;
         color: #8CC751;
+        font-size: 23px;
     }
 
     .text-label-1 {
         top: 8px;
         left: 37px;
+        width: 80px;
+        height: 18px;
         color: #54595F;
         font-size: 14px;
     }
@@ -274,7 +282,7 @@ header .header-menu {
         width: 18px;
         height: 18px;
         color: #54595F;
-        font-size: 17px;
+        font-size: 18px;
     }
 
     .text-date-1 {
@@ -283,29 +291,29 @@ header .header-menu {
         width: 80px;
         height: 18px;
         text-align: left;
-        font-size: 12px;
+        font-size: 14px;
         color: #54595F;
     }
 
     #glasses-1 {
         left: 146px;
-        top: 741px;
+        top: 740px;
         width: 22px;
         height: 18px;
         text-align: left;
-        font-size: 23px;
+        font-size: 26px;
         letter-spacing: 0px;
         color: #54595F;
         opacity: 1;     
     }
 
     .time-reading-1 {
-        left: 174px;
+        left: 176px;
         top: 744px;
         width: 80px;
         height: 18px;
         text-align: left;
-        font-size: 13px;
+        font-size: 15px;
         letter-spacing: 0px;
         color: #54595F;
         opacity: 1;     
@@ -374,7 +382,7 @@ header .header-menu {
 
     #calendar-2 {
         top: 1300px;
-        left: 35px;
+        left: 37px;
         color: #54595F;
         width: 18px;
         height: 18px;
@@ -388,16 +396,16 @@ header .header-menu {
         height: 18px;
         color: #54595F;
         text-align: left;
-        font-size: 12px;
+        font-size: 14px;
     }
 
     #glasses-2 {
-        top: 1299px;
+        top: 1298px;
         left: 160px;
         width: 26px;
         height: 26px;
         color: #54595F;
-        font-size: 23px;
+        font-size: 26px;
     }
 
     .time-reading-2 {
@@ -406,13 +414,112 @@ header .header-menu {
         width: 26px;
         height: 26px;
         color: #54595F;
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .border-div-2 {
         border: 0px solid gray;
         background-color: gray;
         top: 1622px;
+        height: 1px;
+        left: 20px;
+        width: 350px;
+        text-align: left;
+    }
+
+    .fourth-img {
+        top: 878px;
+        left: 20px;
+        width: 350px;
+        height: 391px;
+    }
+
+    #fourth-photo {
+        top: 778px;
+        width: 350px;
+        height: 255px;
+    }
+
+    .educar-3 {
+        top: 1048px;
+        left: 8px;
+        border: 1px solid black;
+        width: 115px;
+        height: 30px;
+        border-radius: 15px;
+        color: #54595F;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
+    }
+
+    #label-3 {
+        top: 5px;
+        left: 10px;
+        width: 23px;
+        height: 14px;
+        color: #8CC751;
+        font-size: 22px;
+    }
+
+    .text-label-3 {
+        top: 8px;
+        left: 37px;
+        width: 23px;
+        height: 14px;
+        font-size: 14px;
+    }
+
+    #calendar-3 {
+        top: 1143px;
+        left: 17px;
+        width: 26px;
+        height: 26px;
+        color: #54595F;
+        font-size: 18px;
+    }
+
+    .text-date-3 {
+        top: 1146px;
+        left: 42px;
+        width: 80px;
+        height: 18px;
+        text-align: left;
+        color: #54595F;
+        font-size: 14px ;
+    }
+
+    .fourth-title-footer {
+        top: 1088px;
+        left: 18px;
+        width: 254px;
+        height: 60px;
+        color: #54595F;
+        text-align: left;
+        font: normal normal bold 16px Open Sans;
+        letter-spacing: 0px;
+    }
+
+    #glasses-3 {
+        top: 1140px;
+        left: 144px;
+        color: #54595F;
+        width: 27px;
+        height: 27px;
+        font-size: 26px;
+    }
+
+    .time-reading-3 {
+        top: 1144px;
+        left: 174px;
+        width: 26px;
+        height: 26px;
+        color: #54595F;
+        font-size: 15px;
+    }
+
+    .border-div-3 {
+        border: 0px solid gray;
+        background-color: gray;
+        top: 2063px;
         height: 1px;
         left: 20px;
         width: 350px;
@@ -426,5 +533,7 @@ header .header-menu {
     .mobile-footer-menu {
         display: none;
     }
+
+
 
 }
