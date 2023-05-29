@@ -1,0 +1,185 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    height: 7665px;
+}
+.header-mobile-menu {
+    display: none;
+}   
+header .header-menu {
+    display: table;
+    width: 100%;
+    background: #485E88;
+}
+
+.menu ul { 
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+.menu ul li {
+    display: inline;
+}
+
+@media (min-width:320px) {
+
+    header {
+        background-color: #485E88;
+        width: 100%;
+        height: 74px;
+    }
+
+    header .header-menu {
+        display: none;
+    }
+
+    .header-mobile-menu {
+        background: #485E88;
+        width: 100vw;
+        height: 74px;
+        display: table;
+    }
+
+    .logo img {
+        margin-top: 9px;
+        margin-left: 19px;
+        width: 87px;
+        height: 65px;
+    }
+
+    .input {
+        display: none;
+    }
+
+    .search {
+        top: 18px;
+        left: 284px;
+        width: 14px;
+        height: 14px;
+        position: absolute;
+        display: none;
+    }
+
+    #lupa {
+      margin-left: 289px;
+      margin-top: 30px;
+      color: white;
+      font-size: 18px;
+    }
+  
+    #burguer {
+        margin-top: 30px;
+        margin-left: 325px;
+        font-size: 19px;
+        color: white;
+    }
+
+    .titulo-main {
+        top: 105px;
+        left: 22px;
+        width: 270px;
+        height: 131px;
+        text-align: left;
+        font: normal normal bold 24px Open Sans;
+        color: #54595F ;
+    }
+
+    .paragrafo-main {
+        top: 240px;
+        left: 22px;
+        width: 270px;
+        height: 74px;
+        color: #54595F;
+        text-align: left;
+        font: normal normal normal 16px Open Sans;
+    }
+
+    .first-img {
+        width: 350px;
+        height: 448px;
+        left: 20px;
+        top: 332px;
+    }
+
+    #img-one {
+        height: 275px;
+        width: 320px;
+
+    }
+    
+    .label-escola {
+        top: 286px;
+        left: 6px;
+        width: 103px;
+        height: 30px;
+        
+    }
+
+    #label {
+        top: 5px;
+        left: 7px;
+        font-size: 20px;
+        color: #8CC751;
+    }
+
+    .text-label {
+       top: 7px;
+       left: 32px;
+       font-size: 14px;
+       color: #54595F;
+    }
+
+    .date {
+        top: 286px;
+        left: 100px;
+        width: 107px;
+        height: 30px;
+    }
+
+    #calendar {
+        font-size: 17px;
+        top: 4px;
+        color: #54595F;
+    }
+
+    .text-date {
+        font-size: 12px;
+        top: 7px;
+        left: 23px;
+        color: #54595F;
+    }
+
+    .reading {
+        top: 286px;
+        left: 215px;
+        width: 130px;
+        height: 30px;
+    }
+
+    #glasses {
+        color: #54595F;
+        top: 2px;
+        font-size: 23px;
+    }
+
+    .time-reading {
+        color: #54595F;
+        top: 5px;
+        left: 30px;
+        font-size: 13px;
+    }
+
+    .nav-bar {
+        margin-top: 70px;
+        display: none;
+    }
+    .mobile-footer-menu {
+        display: none;
+    }
+
+}
