@@ -550,7 +550,7 @@ header .header-menu {
     }
 
     .box-yellow {
-        top: 2285px;
+        top: 2267px;
         left: 20px;
         width: 350px;
         height: 550px;
@@ -569,18 +569,18 @@ header .header-menu {
     }
 
     .subtitle-box-yellow {
-        top: 2551px;
+        top: 2534px;
         left: 39px;
         width: 313px;
         height: 68px;
         text-align: center;
-        font: normal normal bold 16px Open Sans;
+        font: normal normal bold 18px Open Sans;
         letter-spacing: 0;
         color: #000000;
     }
 
     .text-box-yellow {
-        top: 2630px;
+        top: 2624px;
         left: 39px;
         width: 313px;
         height: 106px;
@@ -592,7 +592,7 @@ header .header-menu {
     }
 
     #add-circle {
-        top: 2760px;
+        top: 2740px;
         left: 175px;
         width: 41px;
         height: 41px;
@@ -603,7 +603,7 @@ header .header-menu {
     }
 
     .box-purple {
-        top: 2915px;
+        top: 2850px;
         left: 20px;
         width: 350px;
         height: 550px;
@@ -626,19 +626,19 @@ header .header-menu {
     }
 
     .subtitle-box-purple {
-        top: 3186px;
+        top: 3120px;
         left: 39px;
         width: 313px;
         height: 70px;
         text-align: center;
-        font: normal normal bold 16px Open Sans;
+        font: normal normal bold 18px Open Sans;
         letter-spacing: 0px;
         color: #FFFFFF;
         opacity: 1;
     }
 
     .text-box-purple {
-        top: 3270px;
+        top: 3211px;
         left: 39px;
         width: 313px;
         height: 105px;
@@ -650,7 +650,7 @@ header .header-menu {
     }
 
     #add-circle-2 {
-        top: 3392px;
+        top: 3322px;
         left: 175px;
         width: 41px;
         height: 41px;
