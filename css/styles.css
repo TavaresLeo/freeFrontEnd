@@ -526,6 +526,139 @@ header .header-menu {
         text-align: left;
     }
 
+    .subtitle {
+        top: 2084px;
+        left: 22px;
+        width: 313px;
+        height: 82px;
+        text-align: left;
+        font: normal normal bold 24px Open Sans;
+        color: #54595F;
+        letter-spacing: 0;
+        opacity: 1;
+    }
+
+    .text-middle {
+        top: 2171px;
+        left: 22px;
+        width: 313px;
+        height: 74px;
+        text-align: left;
+        font: normal normal normal 16px Open Sans;
+        color: #54595F;
+        letter-spacing: 0;
+    }
+
+    .box-yellow {
+        top: 2285px;
+        left: 20px;
+        width: 350px;
+        height: 550px;
+        border-radius: 24px;
+        background: #FDB015 0% 0% no-repeat padding-box;
+    }
+
+    #img-box-yellow {
+        top: 33px;
+        left: 33px;
+        width: 284px;
+        height: 218px;
+        border-radius: 15px;
+        border-top-right-radius: 80%;
+        
+    }
+
+    .subtitle-box-yellow {
+        top: 2551px;
+        left: 39px;
+        width: 313px;
+        height: 68px;
+        text-align: center;
+        font: normal normal bold 16px Open Sans;
+        letter-spacing: 0;
+        color: #000000;
+    }
+
+    .text-box-yellow {
+        top: 2630px;
+        left: 39px;
+        width: 313px;
+        height: 106px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #000000;
+        font: normal normal normal 16px Open Sans;
+        opacity: 1;
+    }
+
+    #add-circle {
+        top: 2760px;
+        left: 175px;
+        width: 41px;
+        height: 41px;
+        
+        color: white;
+        opacity: 1;
+        font-size: 41px;
+    }
+
+    .box-purple {
+        top: 2915px;
+        left: 20px;
+        width: 350px;
+        height: 550px;
+
+        background: #7b309e 0% 0% no-repeat padding-box;
+        border-radius: 24px;
+        opacity: 1;
+    }
+
+    #img-box-purple {
+        top: 33px;
+        left: 33px;
+        width: 284px;
+        height: 218px;
+        opacity: 1;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 15%;
+        border-top-right-radius: 41%;
+        border-bottom-right-radius: 41%;
+    }
+
+    .subtitle-box-purple {
+        top: 3186px;
+        left: 39px;
+        width: 313px;
+        height: 70px;
+        text-align: center;
+        font: normal normal bold 16px Open Sans;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+
+    .text-box-purple {
+        top: 3270px;
+        left: 39px;
+        width: 313px;
+        height: 105px;
+        text-align: center;
+        font: normal normal normal 16px Open Sans;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+
+    #add-circle-2 {
+        top: 3392px;
+        left: 175px;
+        width: 41px;
+        height: 41px;
+        color: white;
+        opacity: 1;
+        font-size: 41px;
+    }
+
     .nav-bar {
         margin-top: 70px;
         display: none;
@@ -533,7 +666,6 @@ header .header-menu {
     .mobile-footer-menu {
         display: none;
     }
-
 
 
 }
