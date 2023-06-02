@@ -1,0 +1,464 @@
+@charset "UTF-8";
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Dancing+Script:wght@400;500;600&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+nav {
+    background: #485E88;
+    height: 80px;
+    width: 100%;
+}
+
+nav ul  {
+    float: right;
+    margin-right: 20px;
+}
+
+/* label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold; 
+} */
+
+img {  
+    margin-top: 9px;
+    margin-left: 19px;
+    width: 87px;
+    height: 65px;   
+}
+
+#lupa {
+    left: 281px;
+    top: 26px;
+    width: 38px;
+    height: 38px;
+    color: white;
+    font-size: 24px;
+    float: right;
+    position: absolute;
+}
+
+#burguer {
+    top: 23px;
+    left: 335px;
+    width: 20px;
+    height: 16px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+}
+
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    padding: 7PX 13Px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active, a:hover {
+    background: #1d075f;
+    transition: .5s;
+}
+.checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+#check {
+    display: none;
+}
+
+@media (min-width:320px) {
+    * {
+        margin: 0;
+        padding: 0;    
+    }
+
+    header {
+        background-color: #485E88;
+        width: 100%;
+        height: 74px;
+    
+    }
+
+    header .header-menu {
+        display: none;
+        
+    }
+
+    .header-mobile-menu {
+        background: #485E88;
+        width: 100vw;
+        height: 74px;
+        display: table;
+    }
+
+    .logo img {
+        margin-top: 9px;
+        margin-left: 19px;
+        width: 87px;
+        height: 65px;
+    }
+
+    #lupa {
+      left: 289px;
+      top: 30px;
+      width: 38px;
+      height: 38px;
+      color: white;
+      font-size: 24px;
+    }
+  
+    #burguer {
+        top: 30px;
+        left: 335px;
+        width: 20px;
+        height: 16px;
+        font-size: 28px;
+        color: white;
+        position: absolute;
+    }
+
+    .title {
+        top: 105px;
+        left: 22px;
+        width: 313px;
+        height: 131px;
+        text-align: left;
+        letter-spacing: 0px;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .subtitle {
+        top: 240px;
+        left: 22px;
+        width: 313px;
+        height: 74px;
+        text-align: left;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .label-escola {
+        top: 365px;
+        left: 37px;
+        width: 93px;
+        height: 30px;
+        border-radius: 15px;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
+        position: absolute;
+    }
+
+    #ticket {
+        top: 5px;
+        left: 7px;
+        width: 23px;
+        height: 14px;
+        font-size: 22px;
+        color: #8CC751;
+        position: absolute;
+    
+    }
+
+    .text-label {
+       top: 8px;
+       left: 32px;
+       width: 80px;
+       height: 18px;
+       font-size: 14px;
+       color: #54595F;
+        position: absolute;
+    }
+
+    .date {
+        top: 286px;
+        left: 100px;
+        width: 107px;
+        height: 30px;
+        position: absolute;
+    }
+
+    #calendar {
+        font-size: 18px;
+        top: 85px;
+        left: 52px;
+        width: 18px;
+        height: 18px;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .text-date {
+        font-size: 14px;
+        top: 87px;
+        left: 76px;
+        width: 80px;
+        height: 18px;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .reading {
+        top: 286px;
+        left: 242px;
+        width: 130px;
+        height: 30px;
+        position: absolute;
+    }
+
+    #glasses {
+        color: #54595F;
+        top: 81px;
+        left: 45px;
+        width: 22px;
+        height: 18px;
+        font-size: 26px;
+        position: absolute;
+    }
+
+    .time-reading {
+        color: #54595F;
+        top: 85px;
+        left: 75px;
+        width: 62px;
+        height: 18px;
+        font-size: 15px;
+        position: absolute;
+    }
+
+    #first-photo {
+        top: 403px;
+       
+        width: 350px;
+        height: 263px;
+        position: absolute;
+    }
+
+    .description {
+        top: 711px;
+        left: 22px;
+        width: 348px;
+        height: 916px;
+        text-align: left;
+        font: normal normal normal 14px/19px Open Sans;
+        letter-spacing: 0px;
+        color: #54595F;
+        opacity: 1;
+        position: absolute;
+    }
+
+    .artigo {
+        top: 1594px;
+        left: 20px;
+        width: 350px;
+        height: 475px;
+        border-radius: 8px;
+        background-color: #F4AE35;
+        position: absolute;
+    }
+
+
+    .text-article {
+        top: 49px;
+        left: 56px;
+        width: 250px;
+        height: 173px;
+        text-align: left;
+        font: normal normal bold 24px Open Sans;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: absolute;
+    }
+
+    .text-subtext {
+        top: 190px;
+        left: 56px;
+        width: 250px;
+        height: 89px;
+        text-align: left;
+        font: normal normal normal 16px Open Sans;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        position: absolute;
+    }
+
+    #email {
+        top: 314px;
+        left: 47px;
+        width: 256px;
+        height: 48px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #6F592D;
+        border-radius: 4px;
+        opacity: 1;
+        position: absolute;
+    }
+
+    #email::placeholder {
+        font-size: 16px;
+        left: 15px;
+        position: absolute;
+    }
+
+    #botao {
+        top: 384px;
+        left: 47px;
+        width: 256px;
+        height: 48px;
+        background: #005DAC 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        opacity: 1;
+        position: absolute;
+        color: white;
+    }
+
+    .second-subtitle {
+        top: 2114px;
+        left: 22px;
+        width: 348px;
+        height: 60px;
+        text-align: left;
+        font: normal normal bold 24px/33px Open Sans;
+        letter-spacing: 0px;
+        color: #485E88;
+        opacity: 1;
+        position: absolute;
+    }
+
+    .second-text {
+        top: 2174px;
+        left: 23px;
+        width: 347px;
+        height: 81px;
+        text-align: left;
+        font: normal normal normal 16px/22px Open Sans;
+        letter-spacing: 0px;
+        color: #54595F;
+        opacity: 1;
+        position: absolute;
+    }
+
+    .label-escola-2 {
+        top: 2538px;
+        left: 37px;
+        width: 93px;
+        height: 30px;
+        border-radius: 15px;
+        background: #F2F2F2 0% 0% no-repeat padding-box;
+        position: absolute;
+    }
+
+   
+    #ticket-2 {
+        top: 2px;
+        left: 7px;
+        width: 23px;
+        height: 14px;
+        font-size: 22px;
+        color: #8CC751;
+        position: absolute;
+    
+    }
+
+    .text-label-2 {
+       top: 5px;
+       left: 32px;
+       width: 80px;
+       height: 18px;
+       font-size: 14px;
+       color: #54595F;
+        position: absolute;
+    }
+  
+    .date-2 {
+        top: 2458px;
+        left: 100px;
+        width: 107px;
+        height: 30px;
+        position: absolute;
+    }
+
+    #calendar-2 {
+        font-size: 18px;
+        top: 85px;
+        left: 52px;
+        width: 18px;
+        height: 18px;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .text-date-2 {
+        font-size: 14px;
+        top: 87px;
+        left: 76px;
+        width: 80px;
+        height: 18px;
+        color: #54595F;
+        position: absolute;
+    }
+
+    .reading-2 {
+        top: 2458px;
+        left: 242px;
+        width: 130px;
+        height: 30px;
+        position: absolute;
+    }
+
+    #glasses-2 {
+        color: #54595F;
+        top: 2254px;
+        left: 45px;
+        width: 22px;
+        height: 18px;
+        font-size: 26px;
+        position: absolute;
+    }
+
+    .time-reading-2 {
+        color: #54595F;
+        top: 2258px;
+        left: 76px;
+        width: 62px;
+        height: 18px;
+        font-size: 15px;
+        position: absolute;
+    }
+
+    #photo-2 {
+        top: 2261px;
+        width: 350px;
+        height: 255px;
+        position: absolute;
+    }
+}
