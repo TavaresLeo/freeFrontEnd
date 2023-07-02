@@ -1070,7 +1070,7 @@ header .header-menu {
     }
 
     .first-img {
-        width: 87%;
+        width: 90%;
         height: 448px;
         left: 20px;
         top: 332px;
@@ -1234,7 +1234,7 @@ header .header-menu {
         color: #54595F;
         top: 690px;
         left: 5px;
-        width: 92vw;
+        width: 90%;
         height: 60px;
         font: normal normal bold 16px Open Sans;
     }
@@ -1285,7 +1285,7 @@ header .header-menu {
         top: 1186px;
         height: 1px;
         left: 20px;
-        width: 84vw;
+        width: 90%;
     }
 
     .third-img {
@@ -1331,7 +1331,7 @@ header .header-menu {
     .third-title-footer {
         top: 1245px;
         left: 35px;
-        width: 83vw;
+        width: 90%;
         height: 60px;
         text-align: left;
         color: #54595F;
@@ -1360,7 +1360,7 @@ header .header-menu {
 
     #glasses-2 {
         top: 1304px;
-        left: 160px;
+        left: 175px;
         width: 26px;
         height: 26px;
         color: #54595F;
@@ -1368,8 +1368,8 @@ header .header-menu {
     }
 
     .time-reading-2 {
-        top: 1306px;
-        left: 190px;
+        top: 1308px;
+        left: 205px;
         width: 26px;
         height: 26px;
         color: #54595F;
@@ -1381,7 +1381,7 @@ header .header-menu {
         top: 1622px;
         height: 1px;
         left: 20px;
-        width: 84vw;
+        width: 90%;
     }
 
     .fourth-img {
@@ -1446,7 +1446,7 @@ header .header-menu {
     .fourth-title-footer {
         top: 1088px;
         left: 18px;
-        width: 85vw;
+        width: 90%;
         height: 60px;
         color: #54595F;
         text-align: left;
@@ -1455,8 +1455,8 @@ header .header-menu {
     }
 
     #glasses-3 {
-        top: 1142px;
-        left: 144px;
+        top: 1144px;
+        left: 154px;
         color: #54595F;
         width: 27px;
         height: 27px;
@@ -1464,8 +1464,8 @@ header .header-menu {
     }
 
     .time-reading-3 {
-        top: 1146px;
-        left: 174px;
+        top: 1148px;
+        left: 184px;
         width: 26px;
         height: 26px;
         color: #54595F;
@@ -1477,14 +1477,14 @@ header .header-menu {
         top: 2063px;
         height: 1px;
         left: 20px;
-        width: 84vw;
+        width: 90%;
 
     }
 
     .subtitle {
         top: 2084px;
         left: 22px;
-        width: 85vw;
+        width: 90%;
         height: 82px;
         text-align: left;
         font: normal normal bold 24px Open Sans;
@@ -1496,7 +1496,7 @@ header .header-menu {
     .text-middle {
         top: 2171px;
         left: 22px;
-        width: 85vw;
+        width: 90%;
         height: 74px;
         text-align: left;
         font: normal normal normal 16px Open Sans;
