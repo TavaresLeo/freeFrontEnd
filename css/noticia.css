@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Dancing+Script:wght@400;500;600&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Dancing+Script:wght@400;500;600&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@1,500&display=swap');
 
 
 * {
@@ -40,7 +40,7 @@ img {
 }
 
 #lupa {
-    left: 281px;
+    left: 241px;
     top: 26px;
     width: 38px;
     height: 38px;
