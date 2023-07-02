@@ -992,7 +992,7 @@ header .header-menu {
 }
 /* Média de 360px que funcionou até 415px */
 
-@media (min-width: 320px) and (max-width: 425px){
+@media (min-width: 320px) and (max-width: 655px){
 
     header {
         background-color: #485E88;
@@ -1050,7 +1050,7 @@ header .header-menu {
     }
 
     .titulo-main {
-        top: 95px;
+        top: 110px;
         left: 22px;
         width: 88%;
         height: 131px;
@@ -1060,7 +1060,7 @@ header .header-menu {
     }
 
     .paragrafo-main {
-        top: 220px;
+        top: 230px;
         left: 22px;
         width: 88%;
         height: 74px;
@@ -1160,7 +1160,7 @@ header .header-menu {
     }
 
     .footer-title-img {
-        top: 325px;
+        top: 335px;
         left: 10px;
         width: 90vw;
         height: 55px;
@@ -1172,7 +1172,7 @@ header .header-menu {
     }
 
     .p-footer-title-img {
-        top: 380px;
+        top: 390px;
         width: 90vw;
         height: 28px;
         left: 8px;
@@ -1183,7 +1183,7 @@ header .header-menu {
     }
 
     .line-footer {
-        top: 422px;
+        top: 425px;
         width: 90vw;
         height: 9px;
         background-color: #8CC751;
@@ -1232,7 +1232,7 @@ header .header-menu {
 
     .second-title-footer {
         color: #54595F;
-        top: 692px;
+        top: 695px;
         left: 2vw;
         width: 90vw;
         height: 60px;
@@ -1240,7 +1240,7 @@ header .header-menu {
     }
 
     #calendar-1 {
-        top: 750px;
+        top: 760px;
         left: 2vw;
         width: 18px;
         height: 18px;
@@ -1249,7 +1249,7 @@ header .header-menu {
     }
 
     .text-date-1 {
-        top: 754px;
+        top: 763px;
         left: 8vw;
         width: 80px;
         height: 18px;
@@ -1259,7 +1259,7 @@ header .header-menu {
 
     #glasses-1 {
         left: 35vw;
-        top: 747px;
+        top: 757px;
         width: 22px;
         height: 18px;
         font-size: 26px;
@@ -1268,7 +1268,7 @@ header .header-menu {
 
     .time-reading-1 {
         left: 43vw;
-        top: 751px;
+        top: 761px;
         width: 80px;
         height: 18px;
         text-align: left;
@@ -1280,7 +1280,7 @@ header .header-menu {
 
     .border-div-1 {
         background-color: gray;
-        top: 1186px;
+        top: 1190px;
         height: 1px;
         left: 20px;
         width: 90vw;
@@ -1310,7 +1310,7 @@ header .header-menu {
 
     #label-2 {
         top: 5px;
-        left: px;
+        left: 5px;
         font-size: 23px;
         color: #8CC751;
         width: 25px;
@@ -1327,8 +1327,8 @@ header .header-menu {
     }
 
     .third-title-footer {
-        top: 1245px;
-        left: 35px;
+        top: 1250px;
+        left: 30px;
         width: 90vw;
         height: 60px;
         text-align: left;
@@ -1338,7 +1338,7 @@ header .header-menu {
     }
 
     #calendar-2 {
-        top: 1305px;
+        top: 1315px;
         left: 35px;
         color: #54595F;
         width: 18px;
@@ -1347,7 +1347,7 @@ header .header-menu {
     }
 
     .text-date-2 {
-        top: 1308px;
+        top: 1318px;
         left: 60px;
         width: 80px;
         height: 18px;
@@ -1357,7 +1357,7 @@ header .header-menu {
     }
 
     #glasses-2 {
-        top: 1304px;
+        top: 1313px;
         left: 175px;
         width: 26px;
         height: 26px;
@@ -1366,7 +1366,7 @@ header .header-menu {
     }
 
     .time-reading-2 {
-        top: 1308px;
+        top: 1317px;
         left: 205px;
         width: 26px;
         height: 26px;
@@ -1376,7 +1376,7 @@ header .header-menu {
 
     .border-div-2 {
         background-color: gray;
-        top: 1625px;
+        top: 1635px;
         height: 1px;
         left: 20px;
         width: 90vw;
@@ -1423,7 +1423,7 @@ header .header-menu {
     }
 
     #calendar-3 {
-        top: 1145px;
+        top: 1155px;
         left: 17px;
         width: 26px;
         height: 26px;
@@ -1432,7 +1432,7 @@ header .header-menu {
     }
 
     .text-date-3 {
-        top: 1148px;
+        top: 1158px;
         left: 42px;
         width: 80px;
         height: 18px;
@@ -1442,7 +1442,7 @@ header .header-menu {
     }
 
     .fourth-title-footer {
-        top: 1088px;
+        top: 1095px;
         left: 18px;
         width: 90vw;
         height: 60px;
@@ -1453,7 +1453,7 @@ header .header-menu {
     }
 
     #glasses-3 {
-        top: 1143px;
+        top: 1153px;
         left: 154px;
         color: #54595F;
         width: 27px;
@@ -1462,7 +1462,7 @@ header .header-menu {
     }
 
     .time-reading-3 {
-        top: 1147px;
+        top: 1157px;
         left: 184px;
         width: 26px;
         height: 26px;
@@ -1472,7 +1472,7 @@ header .header-menu {
 
     .border-div-3 {
         background-color: gray;
-        top: 2063px;
+        top: 2075px;
         height: 1px;
         left: 20px;
         width: 90vw;
@@ -1480,7 +1480,7 @@ header .header-menu {
     }
 
     .subtitle {
-        top: 2084px;
+        top: 2095px;
         left: 22px;
         width: 90vw;
         height: 82px;
@@ -1492,7 +1492,7 @@ header .header-menu {
     }
 
     .text-middle {
-        top: 2171px;
+        top: 2175px;
         left: 22px;
         width: 90vw;
         height: 74px;
