@@ -1070,7 +1070,7 @@ header .header-menu {
     }
 
     .first-img {
-        width: 90%;
+        width: 90vw;
         height: 448px;
         left: 20px;
         top: 332px;
@@ -1162,7 +1162,7 @@ header .header-menu {
     .footer-title-img {
         top: 330px;
         left: 12px;
-        width: 88vw;
+        width: 90vw;
         height: 55px;
         color: #54595F;
         text-align: left;
@@ -1173,7 +1173,7 @@ header .header-menu {
 
     .p-footer-title-img {
         top: 385px;
-        width: 88vw;
+        width: 90vw;
         height: 28px;
         left: 8px;
         font: normal normal normal 16px Open Sans;
@@ -1234,7 +1234,7 @@ header .header-menu {
         color: #54595F;
         top: 690px;
         left: 5px;
-        width: 90%;
+        width: 90vw;
         height: 60px;
         font: normal normal bold 16px Open Sans;
     }
@@ -1285,7 +1285,7 @@ header .header-menu {
         top: 1186px;
         height: 1px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
     }
 
     .third-img {
@@ -1381,7 +1381,7 @@ header .header-menu {
         top: 1622px;
         height: 1px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
     }
 
     .fourth-img {
@@ -1477,7 +1477,7 @@ header .header-menu {
         top: 2063px;
         height: 1px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
 
     }
 
