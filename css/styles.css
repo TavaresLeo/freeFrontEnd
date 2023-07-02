@@ -35,7 +35,7 @@ header .header-menu {
 }
 
 
-@media (min-width:320px) {
+@media (min-width: 320px) {
 
     header {
         background-color: #485E88;
@@ -75,7 +75,7 @@ header .header-menu {
     }
 
     #lupa {
-      left: 220px;
+      left: 72%;
       top: 30px;
       width: 38px;
       height: 38px;
@@ -85,7 +85,7 @@ header .header-menu {
   
     #burguer {
         top: 30px;
-        left: 255px;
+        left: 85%;
         width: 20px;
         height: 16px;
         font-size: 28px;
@@ -95,7 +95,7 @@ header .header-menu {
     .titulo-main {
         top: 95px;
         left: 22px;
-        width: 300px;
+        width: 88vw;
         height: 131px;
         text-align: left;
         font: normal normal bold 24px Open Sans;
@@ -105,7 +105,7 @@ header .header-menu {
     .paragrafo-main {
         top: 240px;
         left: 22px;
-        width: 300px;
+        width: 88vw;
         height: 74px;
         color: #54595F;
         text-align: left;
@@ -113,7 +113,7 @@ header .header-menu {
     }
 
     .first-img {
-        width: 310px;
+        width: 88vw;
         height: 448px;
         left: 20px;
         top: 332px;
@@ -992,7 +992,7 @@ header .header-menu {
 }
 /* Média de 360px que funcionou até 415px */
 
-@media (min-width:360px) {
+@media (min-width: 320px) and (max-width: 425px){
 
     header {
         background-color: #485E88;
@@ -1012,7 +1012,7 @@ header .header-menu {
     }
 
     .logo img {
-        margin-top: 9px;
+        margin-top: 8px;
         margin-left: 16px;
         width: 87px;
         height: 65px;
@@ -1024,7 +1024,7 @@ header .header-menu {
 
     .search {
         top: 18px;
-        left: 284px;
+        left: 80%;
         width: 14px;
         height: 14px;
         position: absolute;
@@ -1032,9 +1032,9 @@ header .header-menu {
     }
 
     #lupa {
-      left: 70%;
+      left: 75%;
       top: 30px;
-      width: 38px;
+      width: 97%;
       height: 38px;
       color: white;
       font-size: 24px;
@@ -1042,8 +1042,8 @@ header .header-menu {
   
     #burguer {
         top: 30px;
-        left: 82%;
-        width: 20px;
+        left: 87%;
+        width: 100%;
         height: 16px;
         font-size: 28px;
         color: white;
@@ -1060,9 +1060,9 @@ header .header-menu {
     }
 
     .paragrafo-main {
-        top: 240px;
+        top: 220px;
         left: 22px;
-        width: 90%;
+        width: 88%;
         height: 74px;
         color: #54595F;
         text-align: left;
@@ -1073,7 +1073,7 @@ header .header-menu {
         width: 90vw;
         height: 448px;
         left: 20px;
-        top: 332px;
+        top: 322px;
     }
 
     #img-one {
@@ -1092,10 +1092,10 @@ header .header-menu {
 
     #label {
         top: 5px;
-        left: 10px;
+        left: 8px;
         width: 23px;
         height: 14px;
-        font-size: 22px;
+        font-size: 23px;
         color: #8CC751;
     }
 
@@ -1104,7 +1104,7 @@ header .header-menu {
        left: 35px;
        width: 80px;
        height: 18px;
-       font-size: 14px;
+       font-size: 16px;
        color: #54595F;
       
     }
@@ -1126,7 +1126,7 @@ header .header-menu {
     }
 
     .text-date {
-        font-size: 14px;
+        font-size: 15px;
         top: 8px;
         left: 30px;
         width: 80px;
@@ -1144,19 +1144,19 @@ header .header-menu {
     #glasses {
         color: #54595F;
         top: 3px;
-        left: 21px;
+        left: 26px;
         width: 22px;
-        height: 17px;
+        height: 18px;
         font-size: 26px;
     }
 
     .time-reading {
         color: #54595F;
-        top: 7px;
-        left: 53px;
+        top: 5px;
+        left: 56px;
         width: 62px;
         height: 18px;
-        font-size: 15px;
+        font-size: 17px;
     }
 
     .footer-title-img {
@@ -1172,7 +1172,7 @@ header .header-menu {
     }
 
     .p-footer-title-img {
-        top: 385px;
+        top: 390px;
         width: 90vw;
         height: 28px;
         left: 8px;
@@ -1183,7 +1183,7 @@ header .header-menu {
     }
 
     .line-footer {
-        top: 420px;
+        top: 425px;
         width: 90vw;
         height: 9px;
         background-color: #8CC751;
@@ -1192,7 +1192,7 @@ header .header-menu {
     .second-img {
         top: 393px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 391px;
         opacity: 1;
     }
