@@ -1083,15 +1083,15 @@ header .header-menu {
     
     .label-escola {
         top: 286px;
-        left: 10px;
-        width: 80px;
+        left: 2vw;
+        width: 87px;
         height: 30px;
         border-radius: 15px;
-        background: #F2F2F2 0% 0% no-repeat padding-box;
+        background: #dad9d989 0% 0% no-repeat padding-box;
     }
 
     #label {
-        top: 5px;
+        top: 4px;
         left: 8px;
         width: 23px;
         height: 14px;
@@ -1100,7 +1100,7 @@ header .header-menu {
     }
 
     .text-label {
-       top: 8px;
+       top: 7px;
        left: 35px;
        width: 80px;
        height: 18px;
@@ -1111,7 +1111,7 @@ header .header-menu {
 
     .date {
         top: 286px;
-        left: 110px;
+        left: 28vw;
         width: 115px;
         height: 30px;
     }
@@ -1136,7 +1136,7 @@ header .header-menu {
 
     .reading {
         top: 286px;
-        left: 220px;
+        left: 57vw;
         width: 80px;
         height: 30px;
     }
@@ -1160,8 +1160,8 @@ header .header-menu {
     }
 
     .footer-title-img {
-        top: 330px;
-        left: 12px;
+        top: 325px;
+        left: 10px;
         width: 90vw;
         height: 55px;
         color: #54595F;
@@ -1172,25 +1172,25 @@ header .header-menu {
     }
 
     .p-footer-title-img {
-        top: 390px;
+        top: 380px;
         width: 90vw;
         height: 28px;
         left: 8px;
-        font: normal normal normal 16px Open Sans;
+        font: normal normal normal 15px Open Sans;
         letter-spacing: 0px;
         color: #54595F;
         opacity: 1;
     }
 
     .line-footer {
-        top: 425px;
+        top: 422px;
         width: 90vw;
         height: 9px;
         background-color: #8CC751;
     }
    
     .second-img {
-        top: 393px;
+        top: 390px;
         left: 20px;
         width: 90vw;
         height: 391px;
@@ -1204,12 +1204,12 @@ header .header-menu {
     }
 
     .educar-01 {
-        top: 650px;
-        left: 8px;
+        top: 652px;
+        left: 2vw;
         width: 100px;
         height: 30px;
         border-radius: 15px;
-        background: #F2F2F2 0% 0% no-repeat padding-box;
+        background: #dad9d989 0% 0% no-repeat padding-box;
     }
 
     #label-1 {
@@ -1218,11 +1218,11 @@ header .header-menu {
         width: 20px;
         height: 14px;
         color: #8CC751;
-        font-size: 22px;
+        font-size: 23px;
     }
 
     .text-label-1 {
-        top: 7px;
+        top: 8px;
         left: 30px;
         width: 80px;
         height: 18px;
@@ -1232,16 +1232,16 @@ header .header-menu {
 
     .second-title-footer {
         color: #54595F;
-        top: 690px;
-        left: 5px;
+        top: 692px;
+        left: 2vw;
         width: 90vw;
         height: 60px;
         font: normal normal bold 16px Open Sans;
     }
 
     #calendar-1 {
-        top: 748px;
-        left: 6px;
+        top: 750px;
+        left: 2vw;
         width: 18px;
         height: 18px;
         color: #54595F;
@@ -1249,8 +1249,8 @@ header .header-menu {
     }
 
     .text-date-1 {
-        top: 751px;
-        left: 30px;
+        top: 754px;
+        left: 8vw;
         width: 80px;
         height: 18px;
         font-size: 15px;
@@ -1258,19 +1258,17 @@ header .header-menu {
     }
 
     #glasses-1 {
-        left: 136px;
-        top: 746px;
+        left: 35vw;
+        top: 747px;
         width: 22px;
         height: 18px;
         font-size: 26px;
-        letter-spacing: 0px;
-        color: #54595F;
-        opacity: 1;     
+        color: #54595F;   
     }
 
     .time-reading-1 {
-        left: 166px;
-        top: 748px;
+        left: 43vw;
+        top: 751px;
         width: 80px;
         height: 18px;
         text-align: left;
@@ -1290,7 +1288,7 @@ header .header-menu {
 
     .third-img {
         top: 280px;
-        width: 90%;
+        width: 90vw;
         height: 391px;
     }
 
@@ -1307,12 +1305,12 @@ header .header-menu {
         width: 105px;
         height: 30px;
         border-radius: 15px;
-        background: #F2F2F2 0% 0% no-repeat padding-box;
+        background: #dad9d989 0% 0% no-repeat padding-box;
     }
 
     #label-2 {
         top: 5px;
-        left: 5px;
+        left: px;
         font-size: 23px;
         color: #8CC751;
         width: 25px;
@@ -1320,18 +1318,18 @@ header .header-menu {
     }
 
     .text-label-2 {
-        top: 6px;
+        top: 7px;
         left: 30px;
         width: 80px;
         height: 18px;
         color: #54595F;
-        font-size: 17px;
+        font-size: 16px;
     }
 
     .third-title-footer {
         top: 1245px;
         left: 35px;
-        width: 90%;
+        width: 90vw;
         height: 60px;
         text-align: left;
         color: #54595F;
@@ -1341,7 +1339,7 @@ header .header-menu {
 
     #calendar-2 {
         top: 1305px;
-        left: 37px;
+        left: 35px;
         color: #54595F;
         width: 18px;
         height: 18px;
@@ -1378,7 +1376,7 @@ header .header-menu {
 
     .border-div-2 {
         background-color: gray;
-        top: 1622px;
+        top: 1625px;
         height: 1px;
         left: 20px;
         width: 90vw;
@@ -1404,16 +1402,16 @@ header .header-menu {
         height: 30px;
         border-radius: 15px;
         color: #54595F;
-        background: #F2F2F2 0% 0% no-repeat padding-box;
+        background: #dad9d989 0% 0% no-repeat padding-box;
     }
 
     #label-3 {
-        top: 6px;
+        top: 4px;
         left: 10px;
         width: 23px;
         height: 14px;
         color: #8CC751;
-        font-size: 22px;
+        font-size: 23px;
     }
 
     .text-label-3 {
@@ -1446,7 +1444,7 @@ header .header-menu {
     .fourth-title-footer {
         top: 1088px;
         left: 18px;
-        width: 90%;
+        width: 90vw;
         height: 60px;
         color: #54595F;
         text-align: left;
@@ -1455,7 +1453,7 @@ header .header-menu {
     }
 
     #glasses-3 {
-        top: 1144px;
+        top: 1143px;
         left: 154px;
         color: #54595F;
         width: 27px;
@@ -1464,7 +1462,7 @@ header .header-menu {
     }
 
     .time-reading-3 {
-        top: 1148px;
+        top: 1147px;
         left: 184px;
         width: 26px;
         height: 26px;
@@ -1484,7 +1482,7 @@ header .header-menu {
     .subtitle {
         top: 2084px;
         left: 22px;
-        width: 90%;
+        width: 90vw;
         height: 82px;
         text-align: left;
         font: normal normal bold 24px Open Sans;
@@ -1496,7 +1494,7 @@ header .header-menu {
     .text-middle {
         top: 2171px;
         left: 22px;
-        width: 90%;
+        width: 90vw;
         height: 74px;
         text-align: left;
         font: normal normal normal 16px Open Sans;
@@ -1507,7 +1505,7 @@ header .header-menu {
     .box-yellow {
         top: 2267px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 550px;
         border-radius: 24px;
         background: #FDB015 0% 0% no-repeat padding-box;
@@ -1515,8 +1513,8 @@ header .header-menu {
 
     #img-box-yellow {
         top: 33px;
-        left: 10px;
-        width: 94%;
+        left: 5vw;
+        width: 90%;
         height: 218px;
         border-radius: 15px;
         border-top-right-radius: 80%;
@@ -1526,7 +1524,7 @@ header .header-menu {
     .subtitle-box-yellow {
         top: 2534px;
         left: 29px;
-        width: 80%;
+        width: 85vw;
         height: 68px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1537,7 +1535,7 @@ header .header-menu {
     .text-box-yellow {
         top: 2624px;
         left: 32px;
-        width: 80%;
+        width: 85vw;
         height: 106px;
         text-align: center;
         letter-spacing: 0px;
@@ -1551,8 +1549,7 @@ header .header-menu {
         left: 50%;
         transform: translate(-50%, -50%);
         width: 41px;
-        height: 41px;
-        
+        height: 41px;        
         color: white;
         opacity: 1;
         font-size: 41px;
@@ -1561,7 +1558,7 @@ header .header-menu {
     .box-purple {
         top: 2850px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 550px;
         background: #7b309e 0% 0% no-repeat padding-box;
         border-radius: 24px;
@@ -1570,8 +1567,8 @@ header .header-menu {
 
     #img-box-purple {
         top: 33px;
-        left: 12px;
-        width: 93%;
+        left: 5vw;
+        width: 90%;
         height: 218px;
         opacity: 1;
         border-top-left-radius: 10px;
@@ -1583,7 +1580,7 @@ header .header-menu {
     .subtitle-box-purple {
         top: 3120px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 70px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1595,7 +1592,7 @@ header .header-menu {
     .text-box-purple {
         top: 3211px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 105px;
         text-align: center;
         font: normal normal normal 16px Open Sans;
@@ -1618,7 +1615,7 @@ header .header-menu {
     .box-green {
         top: 3434px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 550px;
         background: #8CC751 0% 0% no-repeat padding-box;
         border-radius: 24px;
@@ -1627,8 +1624,8 @@ header .header-menu {
 
     #img-box-green {
         top: 33px;
-        left: 6px;
-        width: 94%;
+        left: 5vw;
+        width: 90%;
         height: 218px;
         opacity: 1;
         border-top-left-radius: 42%;
@@ -1640,7 +1637,7 @@ header .header-menu {
     .subtitle-box-green {
         top: 3700px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 70px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1652,7 +1649,7 @@ header .header-menu {
     .text-box-green {
         top: 3790px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 105px;
         text-align: center;
         font: normal normal normal 16px Open Sans;
@@ -1699,7 +1696,7 @@ header .header-menu {
     .box-white {
         top: 4192px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 550px;
         border: 1px solid gray;
         border-radius: 24px;
@@ -1718,7 +1715,7 @@ header .header-menu {
     .subtitle-box-white {
         top: 4473px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 70px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1730,7 +1727,7 @@ header .header-menu {
     .text-box-white {
         top: 4573px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 105px;
         text-align: center;
         font: normal normal normal 16px Open Sans;
@@ -1742,7 +1739,7 @@ header .header-menu {
     .box-child {
         top: 4777px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 500px;
         border: 1px solid gray;
         border-radius: 24px;
@@ -1761,7 +1758,7 @@ header .header-menu {
     .subtitle-box-child {
         top: 5054px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 70px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1773,7 +1770,7 @@ header .header-menu {
     .text-box-child {
         top: 5142px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 105px;
         text-align: center;
         font: normal normal normal 16px Open Sans;
@@ -1786,7 +1783,7 @@ header .header-menu {
     .box-child-2 {
         top: 5311px;
         left: 20px;
-        width: 90%;
+        width: 90vw;
         height: 500px;
         border: 1px solid gray;
         border-radius: 24px;
@@ -1796,7 +1793,7 @@ header .header-menu {
     #img-box-child-2 {
         top: 19px;
         left: 10px;
-        width: 90%;
+        width: 94%;
         height: 236px;
         opacity: 1;
         border-radius: 7px;
@@ -1805,7 +1802,7 @@ header .header-menu {
     .subtitle-box-child-2 {
         top: 5588px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 70px;
         text-align: center;
         font: normal normal bold 18px Open Sans;
@@ -1817,7 +1814,7 @@ header .header-menu {
     .text-box-child-2 {
         top: 5677px;
         left: 25px;
-        width: 85%;
+        width: 85vw;
         height: 105px;
         text-align: center;
         font: normal normal normal 16px Open Sans;
@@ -1829,7 +1826,7 @@ header .header-menu {
     .text-inf-main {
         top: 5865px;
         left: 45px;
-        width: 84vw;
+        width: 85vw;
         height: 60px;
         text-align: left;
         font: normal normal bold 24px/33px Open Sans;
@@ -1841,7 +1838,7 @@ header .header-menu {
     .p-inf-main {
         top: 5925px;
         left: 37px;
-        width: 85%;
+        width: 85vw;
         height: 52px;
         text-align: left;
         letter-spacing: 0px;
