@@ -14,10 +14,10 @@
     display: none;
 }   
 
-body {
+/* body {
     width: 100vw;
-    overflow-x: hidden;
-}  
+    overflow-x: auto;
+}   */
 
 header .header-menu {
     display: table;
@@ -992,13 +992,18 @@ header .header-menu {
 }
 /* Média de 360px que funcionou até 415px */
 
-@media (min-width: 320px) and (max-width: 655px){
+@media (min-width: 320px) and (max-width: 500px){
 
     header {
         background-color: #485E88;
         width: 100%;
         height: 74px; 
     }
+
+    body {
+        width: 100vw;
+        overflow-x: hidden;
+    }  
 
     header .header-menu {
         display: none;  
@@ -1034,7 +1039,7 @@ header .header-menu {
     #lupa {
       left: 75%;
       top: 30px;
-      width: 97%;
+      width: 27px;
       height: 38px;
       color: white;
       font-size: 24px;
@@ -1043,7 +1048,7 @@ header .header-menu {
     #burguer {
         top: 30px;
         left: 87%;
-        width: 100%;
+        width: 30px;
         height: 16px;
         font-size: 28px;
         color: white;
@@ -1472,7 +1477,7 @@ header .header-menu {
 
     .border-div-3 {
         background-color: gray;
-        top: 2075px;
+        top: 2073px;
         height: 1px;
         left: 20px;
         width: 90vw;
@@ -1480,7 +1485,7 @@ header .header-menu {
     }
 
     .subtitle {
-        top: 2095px;
+        top: 209px;
         left: 22px;
         width: 90vw;
         height: 82px;
